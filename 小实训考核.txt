@@ -2,3 +2,6 @@
    公式：document.documentElement.style.fontSize = 20 * (clientWidth / 136) + 'px';
 2 react 虚拟dom原理
 3 redux搭建和使用
+
+
+3... 增加了一些代码555
